@@ -166,8 +166,8 @@ Sr. No. | Topics | Problems
 
 ### Day 15
 
-Sr. No. | Topics | Problems | Solutions
-------------- | ------------- | ------------- | -------------
+Sr. No. | Topics | Problems 
+------------- | ------------- | ------------- 
 099 | String | [Reverse Words in A String](https://www.codingninjas.com/codestudio/problems/reverse-words_696444?topList=striver-sde-sheet-problems&leftPanelTab=0) 
 100 | String | [Longest Palindromic Substring](https://www.codingninjas.com/codestudio/problems/longest-palindromic-substring_758900?topList=striver-sde-sheet-problems&leftPanelTab=0)
 101 | String | [Roman Number to Integer](https://www.codingninjas.com/codestudio/problems/roman-number-to-integer_981308?topList=striver-sde-sheet-problems&leftPanelTab=0) 
@@ -276,7 +276,7 @@ Sr. No. | Topics | Problems
 160 | Graph | [Cycle Detection in Undirected Graph](https://www.codingninjas.com/codestudio/problems/cycle-detection-in-undirected-graph_1062670?topList=striver-sde-sheet-problems&leftPanelTab=1)
 161 | Graph | [Cycle Detection inDirected Graph](https://www.codingninjas.com/codestudio/problems/detect-cycle-in-a-directed-graph_1062626?topList=striver-sde-sheet-problems&leftPanelTab=1)
 162 | Graph | [Topological Sort](https://www.codingninjas.com/codestudio/problems/topological-sort_982938?topList=striver-sde-sheet-problems&leftPanelTab=1)
-163 | DFS | [Number of Islands](https://www.codingninjas.com/codestudio/problems/find-number-of-islands_630512?topList=striver-sde-sheet-problems&leftPanelTab=1
+163 | DFS | [Number of Islands](https://www.codingninjas.com/codestudio/problems/find-number-of-islands_630512?topList=striver-sde-sheet-problems&leftPanelTab=1)
 164 | Graph | [Bipartite Graph](https://www.codingninjas.com/codestudio/problems/check-graph-is-bipartite-or-not_920551?topList=striver-sde-sheet-problems&leftPanelTab=1)
 
 ### Day 24
